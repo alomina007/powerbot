@@ -255,7 +255,7 @@ function create_config( )
 
     
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {97715211},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
@@ -316,45 +316,6 @@ group admin Commands:
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for TgProtecter :
-
->#1.Add_bot
->#2.Anti_Bot
->#3.Auto_Leave
->#4.BLOCK
->#5.Feedback
->#6.Member_Manager
->#7.S2A
->#8.SUDO
->#8.all
->#9.arabic_lock
->#10.banhammer
->#11.down_media
->#12.get
->#13.inpm
->#14.invite
->#15.leaders
->#16.leave_ban
->#17.pluglist
->#18.realmcommands
->#19.service_entergroup
->#20.set
->#21.anti_spam
->#22.stats
->#23.toengsupport
->#24.topersupport
->#25.spammer_a
->#26.Spammer_i
->#27.Version
->#28.close_group
->#29.kickall
->#30.SendPm
->#31.tagall
->#32.share
-help all plugin soon :D ,"
-You Can Get Bot version by sending !version,"
-Master admin : @solid021 ,"
-our channel : @TgProtecter_ch ,"
 
 ]]
   }
