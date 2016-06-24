@@ -232,29 +232,34 @@ function create_config( )
     "kickall",
     "Maseage",
     "tagall",
+    "info",
+    "web_shot",
+    "txt2img",
+    "tagall",
+    "stats",
+    "dic",
+    "close_group",
+    "chat",
+    "anti_spam",
+    "Member_moderator",
+    "Maseage",
+    "MAP",
+    "GPS",
+    "Echo",
+    "Cale",
+    "Add_Bot",
+    "Anti_Bot",
+    "Version",
+    "TIME",
+
+
     
     },
     sudo_users = {157059515},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TgProtecter  v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
- 
- our official github :
- https://github.com/solid021/tg-protecter.git
-Antispambot : @TgProtecter
-Admins
-@solid021 [Founder&Developer]
-@alirezaasadi_psg [Manager]
+    about_text = [[]],
 
-Special thanks to
-Arash Infernal
-and more ...
-
-Our channels
-@TgProtecter_ch [persian]
-@persian_gulf_team [persian]
-]],
     help_text_realm = [[
 group admin Commands:
 
